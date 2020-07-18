@@ -6,15 +6,17 @@ import re
 from collections import Counter
 from sklearn.feature_extraction.text import CountVectorizer
 import random
-pattern=r'\d+|\.|%|—|，|,|【|】|《|》|：|\(|\)|（|）|？|\?|:|\/|\d*%|-|_|;|—|！|\+|\n|。|是|于|；|、|!|=|．|％|·|"|即|即便|就|那样|海通|的|广发|\xa0|策略|月|年|上周|速递|宏观|•|‘|’|“|”|●|和|日|有|要|我们|亿|增速|利率|经济|亿|在|又|去|了|我|我们|但|而|任然|万|从|下|可|及|都|占|个|已|姜超|订阅|保持|其中|以来|来看|保持|意味着|一般|分别|研究所|bp|所以|因为|如果|本号|平台|观点|意见|进行|研究|任何人|所载|发布|报告|之一|AA|AAA|AAAAA|AAAAAAAA|BP|BPA|BDICCFI|BPAA|BBB|we|which|time|has|consent|except|本号|A'#设定正则过滤方案
+import os
+jieba.load_userdict("./dict.txt")
+pattern=r'$|一|$|$|%|@|$|&|」|「|–|\d+|\.|%|—|，|,|【|】|《|》|：|\(|\)|（|）|？|\?|:|\/|\d*%|-|_|;|—|！|\+|\n|。|也｜将|与|是|于|；|、|!|=|．|％|·|"|即|即便|就|那样|海通|的|广发|\xa0|策略|月|年|上周|速递|宏观|•|‘|’|“|”|●|和|日|有|要|我们|亿|增速|利率|经济|亿|在|又|去|了|我|我们|但|而|任然|万|从|下|可|及|都|占|个|已|姜超|订阅|保持|其中|以来|来看|保持|意味着|一般|分别|研究所|bp|所以|因为|如果|本号|平台｜观点|意见|进行|研究|任何人|所载|发布|报告|之一|AA|AAA|AAAAA|AAAAAAAA|BP|BPA|BDICCFI|BPAA|BBB|we|which|time|has|consent|except|本号|A|~'#设定正则过滤方案
 step = 0
 tcount = 0
-K=30#主题数
+K=7#主题数
 alpha=50/K#超参数alpha
-beta=0.1#超参数beta
+beta=0.2#超参数beta
 num_words=20#每个主题要展示的10个words
-textcount=40#训练文章数目
-itertime=55#迭代次数
+textcount=15#训练文章数目
+itertime=50#迭代次数
 words=list()
 TopicName=[]#生成topic
 Topic={}#topic字典
@@ -38,18 +40,26 @@ def sample(nwsum, ndsum, nw, nd, t, m,word_id,n):
     nwsum[new_topic_index]+=1#主题对应词的总数
     ndsum[m] += 1#每篇文档的主题数
     z[m][n]=new_topic_index
-with open('姜超宏观证券研究.txt',encoding='utf-8') as f:
-    for text in f.readlines():
-        step+=1
-        L=((x+1)*3+x for x in range(textcount))
-        if (step in L):#for all docs
-            tcount+=1
-            print(tcount)
-            text=re.sub(pattern,'',text)
-            seg=jieba.cut(text, cut_all=False)
-            seg1.append(jieba.lcut(text,cut_all=False))
-            words.append(' '.join(seg))#for all words
-vectorizer = CountVectorizer(token_pattern='\\b\\w+\\b',lowercase=False)
+file_list=os.listdir('nvidia')
+for file in file_list:
+    with open('nvidia'+'/'+file,encoding='utf-8') as f:
+        #for text in f.readlines():
+            # step+=1
+            # #L=((x+1)*3+x for x in range(textcount))
+            # L=(x for x in range(textcount))
+            # if (step in L):#for all docs
+        text=f.read()
+        text=text.replace('这','').replace('是','').replace('也','').replace('与','').replace('将','').replace('解决','').\
+            replace('以','').replace('风挡','').replace('使用量','').replace('北京','').replace('对','').replace('为','').\
+            replace('$','').replace('\uf077','').replace('*','').replace('你','').replace('来','').replace('你们','').\
+            replace('或','').replace('些','').replace('I','')
+        tcount+=1
+        print(tcount)
+        text=re.sub(pattern,'',text)
+        seg=jieba.cut(text, cut_all=False)
+        seg1.append(jieba.lcut(text,cut_all=False))
+        words.append(' '.join(seg))#for all words
+vectorizer = CountVectorizer(token_pattern='\w+',lowercase=False)
 BOW= vectorizer.fit_transform(words)#生成所有语料库的词袋模型
 word_distribute=BOW.toarray()
 p=np.zeros(K)#用来存概率
@@ -75,7 +85,7 @@ for m in range(textcount):
 for i in range(itertime):
     print('训练迭代',i)
     for m in range(textcount):
-        for n in  range(len(words[m].split())):#迭代一篇文里的所有词
+        for n in range(len(words[m].split())):#迭代一篇文里的所有词
             t=z[m][n]#获取该词的主题分布，同时对应了在文章里是有该词
             word_id=feature_name.index(words[m].split()[n])
             sample(nwsum, ndsum, nw, nd, t, m, word_id,n)
