@@ -1,0 +1,11 @@
+NVIDIA核弹Orin采用三星8nm工艺 L5级自驾需750W功耗
+原标题：NVIDIA核弹Orin采用三星8nm工艺 L5级自驾需750W功耗    来源：快科技
+在昨天的GTC China 2019大会上，NVIDIA宣布了一款新核弹产品——DRIVE AGX Orin，这是下一代自驾平台，采用全新的NVIDIA GPU及12核ARM CPU，200TFLOPS的性能是上代Xavier的7倍。
+访问购买页面:
+京东NVIDIA系列商品汇总
+为NVIDIA新一代系统级芯片，Orin芯片由170亿个晶体管组成，集成了NVIDIA新一代GPU架构及12核的Arm Hercules CPU——CPU及GPU的具体信息官方都没公布，下一代GPU应该是Turing之后的Ampere安培了，CPU是ARM Cortex-A77之后的下一代，有超能是Cortex-A78，主要面向7nm及5nm工艺。
+正因为Hercules CPU是面向7nm或者5nm工艺的，所以大家对DRIVE AGX Orin是很期待的，有可能首发5nm工艺，最次也得是7nm工艺吧，没想到NVIDIA这次真的是保守到家了——Computerbase网站爆料称DRIVE AGX Orin使用的是三星8nm LPP工艺，没有台积电代工的份儿了。
+DRIVE AGX Orin是2022年才会问世的，也就是三年后才量产，而三星的8nm LPP工艺实际上是三星10nm工艺的马甲改进版。要知道到了2022年，5nm工艺都不算最先进了，台积电明年就要量产5nm工艺了。
+不过话说回来了，NVIDIA在制程工艺上虽然抠了一点，但是对比Xavier还是有很大进步的，毕竟它也只是台积电12nm工艺生产的，DRIVE AGX Orin用上8nm工艺已经是很大进步了。
+毫无疑问，使用三星成熟的8nm LPP工艺可以大幅降低成本，不过能效上显然是不能跟7nm、5nm相比的。根据NVIDIA的数据，L5级别的全自动驾驶可以使用2路DRIVE AGX Orin+2组GPU的方案，性能可达2000TFLOPS，也是2000万亿次，这性能比得上一些超算了。
+当然，代价就是功耗，这样的系统功耗能达到750W，对比超算的话能效会很高了，Computerbase网站做了一个能效的计算，可以看看。

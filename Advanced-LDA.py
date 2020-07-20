@@ -8,15 +8,15 @@ from sklearn.feature_extraction.text import CountVectorizer
 import random
 import os
 jieba.load_userdict("./dict.txt")
-pattern=r'$|一|$|$|%|@|$|&|」|「|–|\d+|\.|%|—|，|,|【|】|《|》|：|\(|\)|（|）|？|\?|:|\/|\d*%|-|_|;|—|！|\+|\n|。|也｜将|与|是|于|；|、|!|=|．|％|·|"|即|即便|就|那样|海通|的|广发|\xa0|策略|月|年|上周|速递|宏观|•|‘|’|“|”|●|和|日|有|要|我们|亿|增速|利率|经济|亿|在|又|去|了|我|我们|但|而|任然|万|从|下|可|及|都|占|个|已|姜超|订阅|保持|其中|以来|来看|保持|意味着|一般|分别|研究所|bp|所以|因为|如果|本号|平台｜观点|意见|进行|研究|任何人|所载|发布|报告|之一|AA|AAA|AAAAA|AAAAAAAA|BP|BPA|BDICCFI|BPAA|BBB|we|which|time|has|consent|except|本号|A|~'#设定正则过滤方案
+pattern=r'$一|$|$|%|@|$|&|」|「|–|\d+|\.|%|—|，|,|【|】|《|》|：|\(|\)|（|）|？|\?|:|\/|\d*%|-|_|;|—|！|\+|\n|。|也｜将|与|是|于|；|、|!|=|．|％|·|"|即|即便|就|那样|海通|的|广发|\xa0|策略|月|年|上周|速递|宏观|•|‘|’|“|”|●|和|日|有|要|我们|亿|增速|利率|经济|亿|在|又|去|了|我|我们|但|而|任然|万|从|下|可|及|都|占|个|已|姜超|订阅|保持|其中|以来|来看|保持|意味着|一般|分别|研究所|bp|所以|因为|如果|本号|平台｜观点|意见|进行|研究|任何人|所载|发布|报告|之一|AA|AAA|AAAAA|AAAAAAAA|BP|BPA|BDICCFI|BPAA|BBB|we|which|time|has|consent|except|本号|A|~'#设定正则过滤方案
 step = 0
 tcount = 0
-K=7#主题数
+K=10#主题数
 alpha=50/K#超参数alpha
-beta=0.2#超参数beta
+beta=0.1#超参数beta
 num_words=20#每个主题要展示的10个words
-textcount=15#训练文章数目
-itertime=50#迭代次数
+textcount=90#训练文章数目
+itertime=200#迭代次数
 words=list()
 TopicName=[]#生成topic
 Topic={}#topic字典
@@ -41,8 +41,9 @@ def sample(nwsum, ndsum, nw, nd, t, m,word_id,n):
     ndsum[m] += 1#每篇文档的主题数
     z[m][n]=new_topic_index
 file_list=os.listdir('nvidia')
-for file in file_list:
-    with open('nvidia'+'/'+file,encoding='utf-8') as f:
+#for file in file_list:
+for i in range(textcount):
+    with open('nvidia2020'+'/'+'sina'+str(i)+'_2020'+'.txt',encoding='utf-8') as f:
         #for text in f.readlines():
             # step+=1
             # #L=((x+1)*3+x for x in range(textcount))
@@ -52,7 +53,13 @@ for file in file_list:
         text=text.replace('这','').replace('是','').replace('也','').replace('与','').replace('将','').replace('解决','').\
             replace('以','').replace('风挡','').replace('使用量','').replace('北京','').replace('对','').replace('为','').\
             replace('$','').replace('\uf077','').replace('*','').replace('你','').replace('来','').replace('你们','').\
-            replace('或','').replace('些','').replace('I','')
+            replace('或','').replace('些','').replace('I','').replace('|','').replace('>','').replace('[','')\
+            .replace(']','').replace('™','').replace('～','').replace('…','').replace('周一','').replace('周二','')\
+            .replace('周三','').replace('周四','').replace('周五','').replace('周六','').replace('周日','').replace('该','')\
+            .replace('其','').replace('表示','').replace('NVD','英伟达').replace('｜','').replace('®','').replace('▼','')\
+            .replace('℃','').replace('－','').replace('<','').replace('×','').replace('收购','').replace('中','').\
+            replace('他','').replace('使','').replace('─','').replace('〔','').replace('〕','').replace('＆','').\
+            replace('\u200b','').replace('©','').replace('#','')
         tcount+=1
         print(tcount)
         text=re.sub(pattern,'',text)

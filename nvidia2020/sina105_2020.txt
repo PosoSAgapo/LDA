@@ -1,0 +1,7 @@
+NVIDIA的GTX 1650目前已有十种型号可供选择
+原标题：NVIDIA的GTX 1650目前已有十种型号可供选择    来源：sina.com.cn
+NVIDIA的低端市场将变得比现在更加混乱。据报道，Team Green正在研发GTX 1650的“超”版本。到目前为止，已经有9种基于1650的型号，其中包括：
+GTX 1650GTX 1650 GDDR6 EditionGTX 1650 SuperGTX 1650 MobileGTX 1650 Mobile RefreshGTX 1650 Max-QGTX 1650 Max-Q RefreshGTX 1650 Ti MobileGTX 1650 Ti Max-Q
+GTX 1650 Ultra基于TU116芯片，如GTX 1660、1660 Super和GTX 1660 Ti，而原始的GTX 1650变体使用Tu117芯片。这可以简单地看作是NVIDIA回收了无法在高端1660和1660 Ti GPU中使用的冗余管芯：
+幸运的是，对于普通消费者而言，1650的不同型号的性能应该大致相似，因此我们并没有考虑NVIDIA再增加970惨败。至于为什么NVIDIA这样做，这并不难理解。GTX 1650很容易成为PC游戏玩家中最受欢迎的图形卡之一，Steam硬件调查已经多次揭示了这一点。因此，NVIDIA只是试图将尽可能多的剩余硅回收到GTX 1650中。
+新浪声明：新浪网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。

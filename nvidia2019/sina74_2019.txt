@@ -1,0 +1,9 @@
+NVIDIA发布DRIVE AGX Orin：L5级自动驾驶 12核CPU/7倍性能
+原标题：NVIDIA发布DRIVE AGX Orin：L5级自动驾驶 12核CPU/7倍性能
+12月18日，在苏州举行的GTC China 2019大会上，NVIDIA CEO黄仁勋宣布了新一代用于自动驾驶和机器人的高度先进的软件定义平台——NVIDIA DRIVE AGX Orin，集成170亿晶体管，采用全新的NVIDIA GPU及12核ARM CPU，性能是上代Xavier的7倍。
+作为NVIDIA新一代系统级芯片，Orin芯片由170亿个晶体管组成，凝聚着NVIDIA团队为期四年的努力。Orin系统级芯片集成了NVIDIA新一代GPU架构和Arm Hercules CPU（注：这是ARM的5nm高性能CPU）内核以及全新深度学习和计算机视觉加速器，每秒可运行200万亿次计算，几乎是NVIDIA上一代Xavier系统级芯片性能的7倍。
+Orin可处理在自动驾驶汽车和机器人中同时运行的大量应用和深度神经网络，并且达到了ISO 26262 ASIL-D等系统安全标准。
+作为一个软件定义平台，DRIVE AGX Orin能够赋力从L2级到L5级完全自动驾驶汽车开发的兼容架构平台，助力OEM开发大型复杂的软件产品系列。
+由于Orin和Xavier均可通过开放的CUDA、TensorRT API及各类库进行编程，因此开发者能够在一次性投资后使用跨多代的产品。
+NVIDIA创始人兼首席执行官黄仁勋表示：“打造安全的自动驾驶汽车，也许是当今社会所面临的最大计算挑战。实现自动驾驶汽车所需的投入呈指数级增长，面对复杂的开发任务，像Orin这样的可扩展、可编程、软件定义的AI平台不可或缺。”
+根据NVIDIA的信息，DRIVE AGX Orin芯片将于2022年正式量产。

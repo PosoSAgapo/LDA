@@ -1,0 +1,14 @@
+NVIDIA 451.48版显卡驱动发布：唯一完整支持DX12终极版
+原标题：NVIDIA 451.48版显卡驱动发布：唯一完整支持DX12终极版    来源：快科技
+4月份，微软正式公布了DX12 Ultimate终极版，也可以理解为DX12_2，新增支持DXR 1.1光线追踪、可变速着色率(VRS Tier 1/2)、网格着色器、采样器反馈等高级特性，集成于Windows 10 v2004、Xbox Series X之中。
+此前，NVIDIA曾率先发布一款开发版驱动支持DX12终极版。现在，NVIDIA公开放出了GeForce 451.48正式版显卡驱动，第一个也是目前唯一一个实现了对DX12终极版的完整支持，涵盖所有特性。
+新驱动支持GeForce 600系列以来的所有桌面、笔记本显卡，包括开普勒、麦克斯韦、帕斯卡、图灵四大架构家族，不过，NVIDIA没有明确解释哪些型号完整支持DX12终极版，不出意外的话只有最新的RTX 20系列。
+此外，新驱动还正式支持Windows 10 v2004五月更新版引入的硬件加速GPU调度功能，并修复了9个Bug，包括GPU缩放开启后显示器亮度增加、显示器休眠后NVIDIA HD音频消失、YouTube 4K HDR视频播放时光标变成灰色长方形、《盗贼之海》画面渲染错误、《正当防卫2》无法检测到CUDA文件而报错、《生化危机2重制版》物体和菜单随机闪烁，等等。
+Windows 10 64位桌面版：
+https://cn.download.nvidia.com/Windows/451.48/451.48-desktop-win10-64bit-international-whql.exe
+Windows 7 64位桌面版：
+https://cn.download.nvidia.cn/Windows/451.48/451.48-desktop-win7-64bit-international-whql.exe
+Windows 10 64位移动版：
+http://cn.download.nvidia.com/Windows/451.48/451.48-notebook-win10-64bit-international-whql.exe
+Windows 7 64位移动版：
+http://cn.download.nvidia.com/Windows/451.48/451.48-notebook-win7-64bit-international-whql.exe

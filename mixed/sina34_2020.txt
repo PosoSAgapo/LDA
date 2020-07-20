@@ -1,0 +1,7 @@
+英伟达GeForce RTX 20 Turing停产 下一代或9月发布
+原标题：英伟达GeForce RTX 20 Turing停产 下一代或9月发布
+　　【CNMO新闻】据外媒Wccftech消息，由于GeForce RTX 30 Ampere游戏显卡即将发布，英伟达终止了GeForce RTX 20 Turing系列的生产，以便为下一代GeForce RTX 30 Ampere显卡腾出空间。
+英伟达GeForce RTX 20 Turing系列停产（图源Wccftech）
+　　一份来自其他媒体的报道称，大多数高端GeForce RTX 20系列显卡不仅都已停产，而且很快就会被主要厂商淘汰掉，此举是为英伟达的下一代游戏产品做准备。这其中包括以下显卡：GeForce RTX 2080 Ti、GeForce RTX 2080 SUPER、GeForce RTX 2070 SUPER、GeForce RTX 2070。
+　　以上四张显卡均属于英伟达的高端和超级玩家细分市场，所有显卡都使用不同的Turing GPU。另外据报道，由于采矿领域的需求在最近几个月开始复苏，且不断增长，GeForce RTX 20系列的停产将导致未来几周内显卡供货的短缺。
+　　有消息人士称，英伟达或在9月17日发布下一代游戏显卡。

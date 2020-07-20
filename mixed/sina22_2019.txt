@@ -1,0 +1,7 @@
+[图]最强Linux Mint主机MintBox 3登场：酷睿i9+NVIDIA GTX 1660 Ti
+原标题：[图]最强Linux Mint主机MintBox 3登场：酷睿i9+NVIDIA GTX 1660 Ti    来源：cnBeta.COM
+Linux Mint项目团队联合Compulab推出了MintBox 3桌面主机，这也是第五代搭载Linux Mint系统的PC。基于Compulab Airtop3设计，MintBox 3为用户提供了较小的占地面积、带静音散热的美观全金属工业设计、丰富的I/O端口以及强悍的硬件性能，可以满足繁重的任务和图形处理。
+它是有史以来功能最强大的MintBox计算机，并预装了最新的Linux Mint 19.3“ Tricia” Cinnamon版本。Linux Mint项目负责人Clement Lefebvre表示：“自2012年开展合作以来，与Compulab的合作一直是令人赞叹。每个新设备都感觉很特别。MintBox 3同样如此，它不仅紧凑，安静而且外观漂亮，它是我们有史以来功能最强大的计算机。”
+MintBox 3有两个版本，MintBox 3 Basic和MintBox 3 Pro。Basic版本具有6核Intel Core i5-9500处理器，16 GB DDR4-2666 RAM，256 GB Samsung NVMe SSD，集成的Intel UHD Graphics 630，双Gbit以太网，802.11ac无线，6个USB 3.1 Gen 1 Type-A ，1个USB 3.1 gen 2 type C，1个USB 3.1 gen 2 Type-A和1个 USB 3.1 gen 1 Type-A.
+MintBox 3 Pro由8核Intel Core i9-9900K处理器，32 GB双通道DDR4-2666 RAM，Nvidia GeForce GTX 1660 Ti 6 GB GDDR6和集成的Intel UHD Graphics 630显卡提供支持，最多可支持7个显示器。 ，1 TB三星NVMe SSD，双Gbit以太网，802.11ac无线，6个USB 3.1 Gen 1 Type-A，2个USB 3.1 Gen 2（Type-C + A型）和1个USB 3.1 Gen 1 Type-A。
+目前这两款机型已经在Compulab接受购买，其中MintBox 3 Basic的起售价格为1399美元，MintBox 3 Pro的起售价格为2499美元。

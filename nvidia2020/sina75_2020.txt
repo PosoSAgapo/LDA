@@ -1,0 +1,17 @@
+英伟达 GeForce RTX 3070 Ti 与 RTX 3070 显卡规格曝光
+原标题：英伟达 GeForce RTX 3070 Ti 与 RTX 3070 显卡规格曝光    来源：cnBeta
+原标题：英伟达 GeForce RTX 3070 Ti 与 RTX 3070 显卡规格曝光
+除了主打高端市场的 GeForce RTX 3090，玩家们对于英伟达即将推出的 RTX 3080 / 3070 系列显卡更为期待。其中采用 Ampere GA104 GPU、具有 3072 个计算核心(与上一代 RTX 2080 系列相当)、以及 8GB 显存的 RTX 3070 和 RTX 3070 Ti，或定位400 ~ 500美元(约 2800 ~ 3500 RMB)的细分游戏市场。
+此前泄露过英伟达Ampere A100 GPU(RTX 3080 Ti / RTX 3080 / 第二代 Titan RTX)的 Kopitze7kimi，再次分享了有关 RTX 3070 系列游戏 GPU 的一些细节。
+传闻称英伟达将准备至少两款采用 GA104 GPU 的游戏显卡，包括 GeForce RTX 3070 Ti / RTX3070 。定价方面，虽然 GA102 面向高端市场，但 GA104 却是主打 500 美元以下的细分市场。
+其有望取代 GeForce RTX 2080 SUPER / RTX 2080 / RTX 2070 SUPER 这三款采用 TU104 核心的 RTX 20 系列显卡，得益于架构设计上的重要改进，其 IPC 性能有望进一步提升。
+有趣的是，虽然传闻中提到了 GeForce RTX 3070 Ti，但 RTX 2070 时代却没有带 “Ti” 后缀的产品(而是 s 或 SUPER)，直到再往前推到 GeForce GTX 1070 Ti 。
+目前英伟达 RTX 3000 系列独显的正式命名规格尚未公布，不过 RTX 3070 Ti 有望配备完整的 GA104-400-A1 GPU，拥有 3072 个 CUDA 核心。
+作为对比，采用 TU104 GPU 的 RTX 2080 SUPER 也拥有 3072 个 CUDA 核心。
+最终产品线还可能分为 PG141 和 PG142，前者具有 GDDR6X 显存、后者则是 GDDR6 显存，但容量均为 8GB 。
+性能和价格方面，RTX 3070 Ti 或略胜 RTX 2080 SUPER 一筹，定价 500 美元(约 3500 RMB)左右，较 699 美元(约 4900 RMB)的后者更加实惠。
+至于 RTX 3070，其采用核心数略少的 GA104-300 GPU，辅以 8GB GDDR6 显存。根据主要 DRAM制造商的测试，其引脚速率可达 18Gbps(RTX 2080 SUPER 已达 15.5Gbps)。
+如果显存位宽为 512-bit，那 Ampere GPU 可轻松实现 512 GB/s 的带宽，较当前 Turing GPU 的带宽 480 GB/s 带宽提升显著。
+此外有传闻称，RTX 3070 Ti 具有与 RTX 2080 SUPER 相同的 CUDA 核心数，且 RTX 3070 也具有与 RTX 2080 相同的 CUDA 核心数。
+若两款显卡同时推出，则非 Ti 版本或定价 400 美元、带 Ti 版本或定价 500 美元。只是对于刀法精湛的英伟达来说，更可能会择机先后推出小幅升级的版本。
+至于下半年的红绿显卡大战，仍需等待 AMD 高端 / 主流 Radeon RX RNDA 2 显卡在今年 4 季度推出后才能见分晓。

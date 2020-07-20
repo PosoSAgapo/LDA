@@ -1,0 +1,9 @@
+Google与NVIDIA合作开发新的云计算产品
+　　原标题：Google与NVIDIA合作开发新的云计算产品
+　　NVIDIA （纳斯达克股票代码：NVDA）周二宣布，A100 Tensor Core图形处理单元（GPU）在发布几周后就被Google Cloud所采用，该公司隶属于 Alphabet （NASDAQ：GOOGL） （NASDAQ：GOOG）的子公司。
+　　Google Compute Engine上提供了Accelerator-Optimized VM（A2）系列，专门用于处理一些最苛刻的应用程序，包括人工智能（AI）工作负载和高性能计算（HPC）。这使Google成为第一个提供新NVIDIA GPU的云服务提供商。
+　　云中的AI培训
+　　对于最苛刻的工作负载，Google Cloud将在单个VM（或虚拟机）上为用户提供多达16个GPU。云提供商还将以较小的配置提供A2 VM，以满足单个用户的计算需求。该系统将通过私人alpha程序启动，然后于今年晚些时候向公众开放。
+　　NVIDIA在博客中表示，A100还可以为云数据中心的各种计算密集型应用程序提供支持，包括“数据分析，科学计算，基因组学，边缘视频分析，5G服务等”。
+　　A100基于NVIDIA的新Ampere架构，代表了公司历史上性能上的“最大的飞跃”，与之前的产品相比，机器学习培训和推理计算性能均提高了20倍。该技术的早期版本需要单独的处理器来进行训练和推理。与上一代技术相比，A100的速度也提高了10倍。
+　　Google计划在不久的将来推出对更多实例的访问，而NVIDIA A100即将在Google Kubernetes Engine，Cloud AI Platform和其他Google Cloud服务中使用。【TechWeb】

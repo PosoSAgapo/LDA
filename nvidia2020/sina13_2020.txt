@@ -1,0 +1,7 @@
+联想宣布推出一批游戏PC新产品 采用AMD处理器
+原标题：联想宣布推出一批游戏PC新产品 采用AMD处理器    来源：cnBeta.COM
+联想推出了一批采用AMD处理器的游戏PC。它们都有一个共同点，那就是都采用了最新的AMD Ryzen处理器。
+联想在4月份的时候推出了Legion5 15和17，现在它最高配备了AMD Ryzen 7 4800H处理器，最高配备了Nvidia GeForce RTX 2060显卡。15.6或17.3英寸的FHD屏幕带有144Hz刷新率，你可以得到它与高达16GB 3200MHz DDR4内存和1TB PCIe SSD。它们将在8月和9月推出15和17英寸版本，起价分别为1019.99美元和1089.99美元。
+还有新的Legion 5P，它具有相同的CPU，GPU和显示器选项，内存高达32GB 3200MHz的DDR4。它还配备了哈曼卡顿扬声器，经过杜比Atmos调校，音质更好。它也更薄更轻，厚度不到一英寸，重量为5.1磅。Legion 5P并没有像Legion 5那样来到北美市场。
+在入门级游戏市场，有IdeaPad Gaming 3。它采用Ryzen 7 4800H处理器，最高搭载GTX 1650 Ti GPU，屏幕刷新率120Hz，15.6英寸。它采用联想的Q-Control 3.0智能冷却，还有一个蓝色的背光键盘。它将在本月上市，起价659.99美元。
+此外，还有几款台式机也在路上，包括Legion Tower 5。这款产品最高搭载AMD Ryzen 9 3950X 16核处理器，Nvidia GeForce RTX 2070 SUPER GPU，双1TB PCIe SSD，双2TB HDD，和高达128GB 3200MHz DDR4内存。它将在10月上市，起价829.99美元。最后，联想将推出一款新的IdeaCentre Gaming 5，这款产品更加入门级，搭载Ryzen 7 3700X和RTX 2060 GPU，它不会来到美国市场。

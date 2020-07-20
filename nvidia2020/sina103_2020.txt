@@ -1,0 +1,5 @@
+AMD发布具有硬件加速GPU调度功能的Beta驱动程序
+原标题：AMD发布具有硬件加速GPU调度功能的Beta驱动程序    来源：sina.com.cn
+在NVIDIA发布了首个DirectX12 Ultimate驱动程序更新之后，AMD随之推出了对该版本的重要支持之一：即硬件加速GPU调度。基本上，此功能使GPU可以从操作系统控制VRAM管理，以降低延迟并提高利用率。
+以NVIDIA的显卡为例，我们可以看到诸如刺客信条（Assassins‘s Creed）之类的游戏的效果并不明显，而其他游戏的性能款甚至没有变化，除了VRAM的消耗较以往略低。AMD的Radeon软件Adrenalin 2020版20.5.1 Beta为Red GPU带来了相同的功能，但与NVIDIA发行版不同的是，这是Beta驱动程序，仅支持有限的设备。仅支持基于Navi 10的GPU，而至少暂时不支持Navi 14和12，以及较早的基于GCN的部件。
+新浪声明：新浪网登载此文出于传递更多信息之目的，并不意味着赞同其观点或证实其描述。

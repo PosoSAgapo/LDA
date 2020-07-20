@@ -1,0 +1,8 @@
+英伟达搞福利活动 买GeForce RTX显卡送《死亡搁浅》
+原标题：英伟达搞福利活动 买GeForce RTX显卡送《死亡搁浅》    来源：3DMGame
+最近英伟达更新了GeForce Game Ready 451.67 WHQL驱动，为即将上线的《死亡搁浅》PC版提供了优化。英伟达还与505 Game推出了捆绑销售活动，玩家购买英伟达GeForce RTX显卡或设备，即可免费获得《死亡搁浅》PC版。此次活动包括单独购买任何GeForce RTX系列显卡、预装GeForce RTX显卡的PC以及搭载GeForce RTX显卡的笔记本电脑。
+活动持续到7月29日结束，玩家可在8月31日前兑换获得的游戏兑换码。遗憾的是中国、中国台湾、中国香港、中国澳门，日本和朝鲜无法参加此次活动。
+参与活动的显卡设备名单：
+GeForce RTX 2080 Ti，GeForce RTX 2080 Ti台式机，GeForce RTX 2080 SUPER，GeForce RTX 2080 SUPER台式机，GeForce RTX 2080 SUPER笔记本电脑，GeForce RTX 2080，GeForce RTX 2080台式机，GeForce RTX 2080笔记本电脑，GeForce RTX 2070 SUPER，GeForce RTX 2070 SUPER台式机，GeForce RTX 2070 SUPER笔记本电脑，GeForce RTX 2070，GeForce RTX 2070台式机，GeForce RTX 2070笔记本电脑，GeForce RTX 2060 SUPER，GeForce RTX 2060 SUPER台式机，GeForce RTX 2060，GeForce RTX 2060台式机，GeForce RTX 2060笔记本电脑。
+《死亡搁浅》PC版将支持英伟达最新的DLSS 2.0技术，这是一种深度学习神经网络，由GeForce RTX GPU中专用的AI处理器提供硬件支持，在生成漂亮、清晰的游戏图像的同时提高帧率。此外《死亡搁浅》PC版额外功能还包括高帧率、照片模式以及超宽显示器支持。
+《死亡搁浅》PC版将于7月14日发售，登陆Steam和Epic平台，支持中文。
