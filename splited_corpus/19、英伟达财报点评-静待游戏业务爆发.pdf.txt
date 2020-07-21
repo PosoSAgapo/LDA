@@ -1,0 +1,1237 @@
+英伟达财报点评：静待游戏业务爆发 
+Q2 财报简述 
+英伟达 2020 财年第二季度财报显示，Q2 营收 25.79 亿美元，同比下降
+17%，环比上升 16%；GAAP 净利润为 5.52 亿美元，同比下降 50%，环
+比上升 40%；Non-GAAP 净利润为 7.62 亿美元，同比下滑 37%，环比
+上升 40%；GAAP 毛利润率为 59.8%，同比下滑 3.5pcts，环比上升 1.4pcts
+数据中心疲软意料之中，推理端保持增长 
+本季度英伟达与 Intel 数据中心营收皆再次下滑
+AMD 数据中心业务虽
+持续增长，但 GPU 数据中心在本财季环比也出现了下滑，而英伟达数
+据中心营收环比增长 3.3%
+英伟达数据中心最近两个季度受超大规模客户需求疲软、库存过剩等影
+响明显，下半年数据中心业务大概率会小幅回暖，但重返高速增长仍不
+现实
+汽车业务、Switch 助力 Tegra 大爆发 
+英伟达在上一财季 Tegra 业务营收同比下滑 55%，环比下滑 12%，颓势
+严重
+Q2  Tegra 业务营收 4.75 亿美元，同比增长 1.7%（前值-55.2%），
+环比增长 140%
+营收创历史单季度新高
+游戏主机方面，未来我们看好 Tegra  SoC 在任天堂 Switch 出货高峰 Q3
+的表现
+国行版 Switch 预计在 Q3 正式推出，凭借腾讯强大的运营能力，
+大概率会带动 Switch 的大卖
+汽车业务，鉴于 Intel 的 Mobileye 在 Q2
+营收同比增速出现大幅下滑，英伟达汽车业务时隔六个季度再次超越
+Mobileye，但本季度高增长主要得益于沃尔沃合作协议的收入
+游戏业务小幅回暖，Max-Q 谱写笔电未来 
+英伟达 Q2 游戏业务营收 13.13 亿美元，同比下滑 27.26%，环比上升
+24.46%
+主要得益于 RTX 与 GTX16 系列新品以及 Switch 新品表现亮
+游戏本业务 Q2 在游戏部门中增速最快
+全球 PC 增速下滑的背景下，
+游戏本成为了 PC 新的增长点
+英伟达 Max-Q 技术较好地实现了性能
+与轻薄之间的平衡
+我们坚持看好光追技术，英伟达押注光追的决策符
+合当下市场需求
+投资建议与盈利预测 
+由于较之前的盈利预测有所下调，基于 DCF 对自由现金流预测，假设 
+WACC 为  13.1%，FY2024 EV/EBITDA 为  21.9x，目标价暂调整为 187
+美元
+但我们仍然看好下半年游戏业务表现，尤其是在乐观情况下，游
+戏笔记本的火爆或会带动 RTX2060/RTX2070 的销量，进一步提高光线
+追踪技术普及率
+期待游戏业务爆发在 Q3 得到验证
+风险提示 
+贸易战；AMD 显卡市场表现超预期；数据中心业务表现不及预期；
+Mellanox 收购进展不及预期
+证券研究报告 
+2019 年 9 月 4 日 
+分析师：秦忠杰 
+SFC CE Ref: BNW258 
+主要数据（2019.9.3） 
+股票代码                                                   
+NVDA.US 
+评级                                                       
+买入 
+当前股价（美元）                               
+164.17 
+目标价（美元） 
+187 
+52 周最高价/最低价（美元）   
+292.12/123.98 
+总股本（百万股）                                         
+609 
+总市值（亿美元）                                           
+999.8 
+股价表现： 
+antonioqin@futunn.com 
+团队成员：崔彤 
+ericcui@futunn.com 
+   
+往期回顾 
+《英伟达：PC 久违回暖，与 AMD 决战
+下半年》-2019.07.23 
+《英伟达：重返 2017 还是梦回 2018
+-2019.05.20 
+                                                                                富途证券·公司研究报告 
+目录 
+目录 ........................................................................................................................................................................................... 0 
+图表目录 ................................................................................................................................................................................... 0 
+英伟达 Q2 财报简述 ................................................................................................................................................................ 1 
+数据中心疲软意料之中，推理端保持增长 ........................................................................................................................... 4 
+汽车业务、Switch 助力 Tegra 大爆发 .................................................................................................................................... 5 
+游戏业务小幅回暖，Max-Q 谱写笔电未来 ......................................................................................................................... 9 
+投资建议与盈利预测 ............................................................................................................................................................. 14 
+风险提示 ................................................................................................................................................................................. 16 
+ 
+                                                                                富途证券·公司研究报告 
+图表目录 
+图表  1：英伟达与 AMD 季度经营情况对比（单位：百万美元） ...............................................................................................1 
+图表  2：英伟达营收构成（单位：百万美元）...............................................................................................................................1 
+图表  3：英伟达各业务营收同比增速 ..............................................................................................................................................2 
+图表  4：毛利润率对比 ......................................................................................................................................................................3 
+图表  5：库存环比变化情况 ..............................................................................................................................................................3 
+图表  6：英伟达与 INTEL 数据中心对比 ...........................................................................................................................................4 
+图表  7：英伟达数据中心业务概况 ..................................................................................................................................................5 
+图表  8：GPU 与 TEGRA 营收对比（单位：百万美元） ................................................................................................................6 
+图表  9：三大游戏主机出货量 ..........................................................................................................................................................6 
+图表  10：英伟达与 MOBILEYE 营收情况对比（单位：百万美元） ..............................................................................................7 
+图表  11：英伟达与沃尔沃合作 ........................................................................................................................................................8 
+图表  12：英伟达汽车业务 ................................................................................................................................................................8 
+图表  13：STEAM 显卡市场份额 ........................................................................................................................................................9 
+图表  14：RTX 与 GTX16 系列产品 STEAM 显卡市场份额 ...........................................................................................................9 
+图表  15：2019Q2 全球显卡市场份额 ............................................................................................................................................10 
+图表  16：戴尔 ALIENWARE MAX-Q 机型与非 MAX-Q 重量对比 ..............................................................................................10 
+图表  17：RTX MAX-Q 性能对比 .................................................................................................................................................11 
+图表  18：英伟达 TURING 架构显卡出货量增速快于上一代 PASCAL ..........................................................................................12 
+图表  19：光追目前得到了主流游戏引擎的支持 ...........................................................................................................................12 
+图表  20：英伟达产品表 ..................................................................................................................................................................13 
+图表  21：英伟达 RTX 系列  3DMARK 性能测试 ..........................................................................................................................13 
+图表  22：可比估值 ..........................................................................................................................................................................14 
+图表  23：当前估值处于近两年低位 ..............................................................................................................................................15 
+图表  24：EBITDA MULTIPLE METHOD - SENSITIVITY ANALYSIS .................................................................................................15 
+图表  25：盈利预测摘要 ..................................................................................................................................................................16 
+                                                                                富途证券·公司研究报告 
+英伟达 Q2 财报简述 
+英伟达 2020 财年第二季度财报显示，Q2 营收 25.79 亿美元，同比下降 17%，环比上升
+16%；GAAP 净利润为 5.52 亿美元，同比下降 50%，环比上升 40%；Non-GAAP 净利润
+为 7.62 亿美元，同比下滑 37%，环比上升 40%；GAAP 毛利润率为 59.8%，同比下滑 3.5pcts，
+环比上升 1.4pcts； 
+图表  1：英伟达与 AMD 季度经营情况对比（单位：百万美元） 
+3500
+3000
+2500
+2000
+1500
+1000
+500
+1400
+1200
+1000
+800
+600
+400
+200
+Gaming
+Datacenter
+Professional
+Visualization
+Auto
+OEM & IP
+2017Q2 2017Q3 2017Q4 2018Q1 2018Q2 2018Q3 2018Q4 2019Q1 2019Q2
+英伟达营收
+AMD营收
+英伟达Non-GAAP净利润
+AMD Non-GAAP净利润
+资料来源：公司财报、富途证券 
+图表  2：英伟达营收构成（单位：百万美元） 
+2019Q2
+2019Q1
+2018Q4
+2018Q3
+2018Q2
+2018Q1
+2017Q4
+2017Q3
+2017Q2
+2017Q1
+2016Q4
+2016Q3
+2016Q2
+1313
+655
+291
+209
+1055
+954
+634
+266
+166
+679
+293
+163
+1764
+1805
+1723
+1739
+792
+760
+305
+172
+281
+161
+701
+251
+145
+606
+254
+132
+1561
+501
+239
+144
+1186
+416
+235
+142
+1027
+409
+205
+140
+1348
+296
+225
+128
+1244
+240
+207
+127
+781
+151
+214
+119
+500
+1000
+1500
+2000
+2500
+3000
+3500
+资料来源：公司财报、富途证券 
+2019 年 09 月 04 日 
+1 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+                                                                                富途证券·公司研究报告 
+图表  3：英伟达各业务营收同比增速 
+230%
+180%
+130%
+80%
+30%
+-20%
+-70%
+-120%
+2016Q1 2016Q2 2016Q3 2016Q4 2017Q1 2017Q2 2017Q3 2017Q4 2018Q1 2018Q2 2018Q3 2018Q4 2019Q1 2019Q2
+Gaming同比增速
+Auto同比增速
+Datacenter同比增速
+OEM & IP同比增速
+Professional Visualization同比增速
+资料来源：公司财报、富途证券 
+分业务来看，本季度只有数据中心业务和专业可视化业务同比增速尚未回暖
+其中专业可
+视化业务中 RTX  Studio  OEM 机型的不断扩充或有利于 Q3 该业务的回暖
+英伟达营收
+占比最高的游戏业务，Q2 营收同比下滑速度放缓，环比增长了 24.5%
+表现最好的汽车
+业务是营收同比增速唯一上涨的
+毛利润率方面，在 AMD 与 Intel 纷纷企稳之际，英伟达也在好转
+Q2  GAAP 毛利率为
+59.8%，同比下滑 3.5pcts，环比上升 1.4pcts，基本上与 Intel 旗鼓相当
+毛利的改善一定程
+度上离不开原材料成本端 DRAM 价格暴跌
+另外有趣的是，英伟达库存环比大幅下降 15.6%，且连续两个季度下滑
+财报中披露的库
+存详情显示，原材料环比减少了 41%，在产品减少了 15%，成品减少了 12%
+难免让人联
+想到最新的 GTX16 系列显卡大卖进一步消耗掉了 Pascal 库存
+2019 年 09 月 04 日 
+2 
+谨请参阅尾页重要声明及股票和行业评级标准   
+图表  4：毛利润率对比 
+                                                                                富途证券·公司研究报告 
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+50%
+40%
+30%
+20%
+10%
+0%
+-10%
+-20%
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018 2019Q1 2019Q2
+英伟达毛利润率
+Intel毛利润率
+AMD毛利润率
+资料来源：公司财报、富途证券 
+图表  5：库存环比变化情况 
+2017Q3
+2017Q4
+2018Q1
+2018Q2
+2018Q3
+2018Q4
+2019Q1
+2019Q2
+英伟达存货环比增速
+Intel存货环比增速
+AMD存货环比增速
+资料来源：公司财报、富途证券 
+2019 年 09 月 04 日 
+3 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+数据中心疲软意料之中，推理端保持增长 
+作为在 CPU/GPU 三巨头中唯一只有 GPU 数据中心业务的公司，英伟达业务存在着与
+Intel 相仿的天然隐患，但又没有 Intel 整合数据业务的实力
+因此我们认为英伟达收购
+Mellanox 更多出于向 Intel 学习打造数据生态的战略考量
+回到数据中心业务层面，本季度英伟达与 Intel 数据中心营收皆再次下滑
+在此之前，联
+想作为数据中心下游客户，其最新财季数据中心业务营收也下滑 17%
+图表  6：英伟达与 Intel 数据中心对比 
+100%
+80%
+60%
+40%
+20%
+0%
+-20%
+2018Q1
+2018Q2
+2018Q3
+2018Q4
+2019Q1
+2019Q2
+英伟达同比增速
+Intel数据中心Margin
+Intel同比增速
+资料来源：公司财报、富途证券 
+目前来看，三大巨头中仅有 AMD 的数据中心业务营收同比还在增长
+不过 AMD 虽持续
+增长，但 GPU 数据中心在本财季环比也出现了下滑，而英伟达数据中心(GPU)营收环比
+还增长了 3.3%
+英伟达数据中心最近两个季度受超大规模客户需求疲软、库存过剩等影响明显，我们认为
+下半年超大规模业务线难改颓势
+企业端表现仍然较为优秀，例如国内一些互联网企业巨
+头仍然是数据中心 GPU 的大客户，且需求稳定
+2019 年 09 月 04 日 
+4 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+从产品角度来讲，训练端产品虽市场份额高居第一，但如谷歌等客户自研产品已成规模，
+根据 Q2 财报电话会议，训练端市场份额有所下降
+推理端业务则是英伟达在财报中一直
+所强调的
+推理端得益于市场对 AI 投入的热情不减，在 Q2 成为数据中心业务增长点，
+推理端营收占比已经上升到两位数
+由于推理端更贴近应用层面，广受科技行业甚至传统
+行业欢迎
+无论是云端还是边缘计算端，英伟达产品矩阵也足够丰富
+总的来说，我们认为下半年数据中心业务大概率会小幅回暖，但重返高速增长仍不现实
+图表  7：英伟达数据中心业务概况 
+资料来源：英伟达官网、富途证券 
+汽车业务、Switch 助力 Tegra 大爆发 
+英伟达在上一财季 Tegra 业务营收同比下滑 55%，环比下滑 12%，颓势严重
+现在 Q2 财
+报显示，Tegra 业务营收 4.75 亿美元，同比增长 1.7%（前值-55.2%），环比增长 140%
+营收创历史单季度新高
+2019 年 09 月 04 日 
+5 
+谨请参阅尾页重要声明及股票和行业评级标准   
+图表  8：GPU 与 Tegra 营收对比（单位：百万美元） 
+                                                                                富途证券·公司研究报告 
+1.2
+0.8
+0.6
+0.4
+0.2
+-0.2
+-0.4
+-0.6
+-0.8
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+2016Q2 2016Q3 2016Q4 2017Q1 2017Q2 2017Q3 2017Q4 2018Q1 2018Q2 2018Q3 2018Q4 2019Q1 2019Q2
+GPU
+Tegra
+GPU YoY
+Tegra YoY
+资料来源：公司财报、富途证券 
+前段时间任天堂发布了新版 Switch Lite
+Switch 是三家主机厂商中仅存的使用英伟达 SoC
+的游戏机
+根据任天堂在美国 FCC 最新备案信息，Switch 与 Switch Lite 都更换了英伟达
+SoC 型号，还更换了 NAND 存储型号
+Switch 搭载的全新 Tegra  SoC 环比收入实现了上
+根据 VGChartz 统计，截至 8 月份 Switch 销量同比增长 18%，是本世代三大游戏主机中销
+量唯一实现同比增长的游戏机，市场份额超越 PS4 已是大概率事件
+图表  9：三大游戏主机出货量 
+PS4 
+Xbox One 
+Switch 
+资料来源：VGChartz、富途证券 
+2017 年销量 
+2018 年销量 
+2019 年销量
+（YTD） 
+2019 YoY 
+（YTD） 
+2018 年市场
+份额 
+2019 年市场
+份额（YTD） 
+9,154,283 
+8,044,774 
+6,989,694 
+-13.1% 
+48.8% 
+44.6% 
+2,388,119 
+2,590,486 
+1,780,967 
+-31.2% 
+15.7% 
+11.4% 
+5,008,963 
+5,858,853 
+6,914,879 
++18% 
+35.5% 
+44.1% 
+2019 年 09 月 04 日 
+谨请参阅尾页重要声明及股票和行业评级标准   
+6 
+ 
+250
+200
+150
+100
+50
+                                                                                富途证券·公司研究报告 
+未来我们看好 Tegra  SoC 在任天堂 Switch 出货高峰 Q3 的表现，以及国行版 Switch 预计
+在 Q3 正式推出，凭借腾讯强大的运营能力，大概率会带动 Switch 的大卖
+除了 Switch 之外，Q2 Tegra 业绩大爆发与汽车业务也有关系
+图表  10：英伟达与 Mobileye 营收情况对比（单位：百万美元） 
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+2017Q3
+2017Q4
+2018Q1
+2018Q2
+2018Q3
+2018Q4
+2019Q1
+2019Q2
+Mobileye
+英伟达Auto
+Mobileye YoY
+英伟达Auto YoY
+资料来源：公司财报、富途证券 
+本季度英伟达汽车业务大幅超预期，营收 2.09 亿美元，同比增长 29.81%，环比增长 25.9%，
+创下历史新高
+鉴于 Intel 的 Mobileye 在 Q2 营收同比增速出现大幅下滑，英伟达汽车业
+务时隔六个季度再次超越 Mobileye
+根据财报显示，如此佳绩很大程度上得益于英伟达与沃尔沃签署的合作协议在 Q2 得到
+了一次性确认
+2019 年 09 月 04 日 
+7 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+                                                                                富途证券·公司研究报告 
+根据合作协议，沃尔沃将借助 DRIVE AGX Pegasus 车载 AI 计算平台，利用全套 DRIVE 
+AV 软件堆栈进行 360 度传感器处理、感知、地图本地化和路径规划
+此外，双方还将利
+用 NVIDIA DRIVE 硬件在环仿真平台来对这些系统进行测试和验证
+图表  11：英伟达与沃尔沃合作 
+资料来源：英伟达官网、富途证券 
+图表  12：英伟达汽车业务 
+资料来源：英伟达官网、富途证券 
+2019 年 09 月 04 日 
+8 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+                                                                                富途证券·公司研究报告 
+游戏业务小幅回暖，Max-Q 谱写笔电未来 
+英伟达 Q2 游戏业务营收 13.13 亿美元，同比下滑 27.26%，环比上升 24.46%
+主要得益于
+RTX 与 GTX16 系列新品以及 Switch 新品表现亮眼
+根据 Steam7 月硬件统计数据，英伟达显卡市占率较 6 月没什么变化，仍保持在 75.53%高
+但是具体显卡的市场份额出现了较大变化
+GTX10 系列出现了大片的下滑，市占率
+排第一名的 GTX1060 下降 0.66pct
+值得注意的是 RTX 产品仍保持稳步增长，GTX16 系
+列新品市场反应也不错
+游戏市场显卡换代空间仍然巨大
+图表  13：Steam 显卡市场份额 
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+1.40%
+1.20%
+1.00%
+0.80%
+0.60%
+0.40%
+0.20%
+0.00%
+9.7%
+14.7%
+75.5%
+Apr-18
+Jul-18
+Oct-18
+Jan-19
+Apr-19
+Jul-19
+英伟达 AMD
+Intel 其他
+资料来源：Steam、富途证券 
+图表  14：RTX 与 GTX16 系列产品 Steam 显卡市场份额 
+Mar-19
+Apr-19
+May-19
+Jun-19
+Jul-19
+RTX2070
+RTX2060
+GTX1660 Ti
+GTX1660
+资料来源：Steam、富途证券 
+2019 年 09 月 04 日 
+9 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+图表  15：2019Q2 全球显卡市场份额 
+资料来源：JPR、富途证券 
+2019Q2 Market share 
+2019Q1 Market share 
+2018Q2 Market share 
+AMD 
+英伟达 
+总计 
+32.1% 
+67.9% 
+100% 
+22.7% 
+77.3% 
+100% 
+36.1% 
+63.9% 
+100% 
+另外原材料 DRAM 价格的暴跌或对提升毛利有一定的帮助
+2019 年二季度 DRAM 厂商
+营收环比再下滑 9%，价格颓势有望延续
+新品 RTX  Super 系列的显存都没有进行提升，
+英伟达成本端的压力较小
+本季度游戏业务一大亮点是笔记本业务线
+游戏本业务在二季度在游戏部门中增速最快
+全球 PC 增速下滑的背景下，游戏本成为了 PC 新的增长点
+根据市场统计，2018 年游戏
+本市场规模达 120 亿美元，预计 2019 年市场规模同比增长约 25%至 150 亿美元，5 年
+CAGR 可达 20%
+多年以来制约游戏本行业发展最主要还是消费者出于对性能的担忧
+一般传统笔记本体
+积小、便携性强，而过往游戏本都是以厚重形态出现，诸如动辄重达 5kg 的戴尔 Alienware
+与未来人类 Terrans Force 高端发烧游戏本
+图表  16：戴尔 Alienware Max-Q 机型与非 Max-Q 重量对比 
+资料来源：戴尔官网、富途证券 
+2019 年 09 月 04 日 
+10 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+                                                                                富途证券·公司研究报告 
+而英伟达 Max-Q 技术较好地实现了性能与轻薄之间的平衡
+重量比搭载非 Max-Q 机型
+可降低 45%
+以戴尔 Alienware  AREA-51m 与 m15 两款顶配机型为例，51m 在显卡方面
+搭载了英伟达 RTX2080，而 m15 显卡是英伟达 RTX2080 Max-Q
+两者机型重量相差近
+3 斤，最大厚度方面 m15 更是薄了超过 50%，便携性较强
+根据 ZOL 测评数据，性能方面 RTX2080 Max-Q  与 RTX2080 虽然在 3DMark 跑分存在
+30%-40%差距，但仍较 RTX2070 有着近 10%的提升，足以应对大部分游戏
+未来游戏本
+的发展趋势将会是 PC 般的性能与笔记本的便携之间的统一
+图表  17：RTX Max-Q 性能对比 
+TimeSpy
+10232
+7636
+7229
+6690
+5741
+TimeSpyExtreme
+4781
+3364
+3341
+3044
+2613
+27294
+20218
+18580
+17095
+FireStrike
+FireStrikeExtreme
+15087
+12880
+9179
+8797
+8147
+7007
+FireStrikeUltra
+6263
+4663
+4300
+4003
+3293
+5000
+10000
+15000
+20000
+25000
+30000
+RTX2080
+RTX2080Max-Q
+RTX2070
+RTX2070Max-Q
+RTX2060
+资料来源：ZOL、富途证券 
+2019 年 09 月 04 日 
+11 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+图表  18：英伟达 Turing 架构显卡出货量增速快于上一代 Pascal 
+                                                                                富途证券·公司研究报告 
+资料来源：英伟达官网、富途证券 
+在刚刚结束的科隆游戏展中，英伟达又宣布了 9 款支持光追的游戏，其中包括三个最著名
+的游戏分别是《我的世界》(Minecraft)、《使命召唤：现代战争》(Call of Duty: Modern Warfare 
+series)和《赛博朋克 2077》(Cyberpunk 2077)
+云游戏方面，英伟达宣布将会把 GeForce Now
+云游戏服务引入安卓手机上，这一服务最早将会在今年晚些时候推出
+图表  19：光追目前得到了主流游戏引擎的支持 
+资料来源：英伟达官网、富途证券 
+2019 年 09 月 04 日 
+12 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+图表  20：英伟达产品表 
+                                                                                富途证券·公司研究报告 
+RTX2080Ti 
+RTX2080S 
+RTX2080 
+RTX2070S 
+RTX2070 
+RTX2060S 
+RTX2060 
+GTX1660Ti 
+架构 
+制程 
+CUDA 
+显存 
+显存速率 
+显存位宽 
+显存带宽 
+显卡功率 
+美区
+MSRP 
+Turing 
+Turing 
+Turing 
+Turing 
+Turing 
+Turing 
+Turing 
+Turing 
+12nm 
+12nm 
+12nm 
+12nm 
+12nm 
+12nm 
+12nm 
+12nm 
+4352 
+11GB 
+GDDR6 
+3072 
+8GB 
+2944 
+8GB 
+2560 
+8GB 
+2304 
+8GB 
+2176 
+8GB 
+1920 
+6GB 
+1536 
+6GB 
+GDDR6 
+GDDR6 
+GDDR6 
+GDDR6 
+GDDR6 
+GDDR6 
+GDDR6 
+14 Gbps 
+15.5Gbps 
+14 Gbps 
+14 Gbps 
+14 Gbps 
+14 Gbps 
+14 Gbps 
+12 Gbps 
+352 bit 
+256 bit 
+256 bit 
+256 bit 
+256 bit 
+256 bit 
+192 bit 
+192 bit 
+616 GB/s 
+496 GB/s 
+448 GB/s 
+448 GB/s 
+448 GB/s 
+448 GB/s 
+336 GB/s 
+288 GB/s 
+250W 
+250W 
+215W 
+215W 
+175W 
+175W 
+160W 
+120W 
+1199 
+699 
+799 
+599 
+399 
+349 
+279~ 
+资料来源：英伟达官网、富途证券 
+图表  21：英伟达 RTX 系列  3DMark 性能测试 
+499 
+3434
+RTX2060
+RTX2060S
+RTX2070
+RTX2070S
+RTX2080
+4179
+4028
+4204
+5051
+5396
+4645
+5933
+5062
+6410
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+TimeSpy Extreme
+FireStrike Ultra
+13 
+谨请参阅尾页重要声明及股票和行业评级标准   
+资料来源：ZOL、富途证券 
+2019 年 09 月 04 日 
+                                                                                富途证券·公司研究报告 
+关于英伟达最新推出的 RTX  Super 系列显卡，在性价比方面提升明显
+根据英伟达财报
+电话会议，RTX Super 上市时间处于 Q2 末，一经推出市场反馈较好，在美国部分市场出
+现断货情况
+我们认为该产品线的利好将会在集中反应在 Q3 财报中
+最后，我们坚持看好光追技术，因在如今实现 4K/60 帧早已不是问题
+如何在画面上玩
+出差异化是显卡厂商需要考虑的问题
+而英伟达给出的实时光线追踪技术（RTX）是目
+前最能体现差异化、视觉冲击力最明显的技术方案
+而 AMD 下一代 RDNA 显卡内核也
+将跟上实时光追技术，进一步证明了英伟达押注光追的决策符合当下市场需求
+投资建议与盈利预测 
+之前英伟达给出的 2020 财年全年指引，预计营收持平
+根据上半年来看，我们认为概率
+不大
+在具体业务层面，我们看好下半年游戏业务表现，尤其是在乐观情况下，游戏笔记
+本的火爆或会带动 RTX2060/RTX2070 的销量，进一步提高光线追踪技术普及率
+数据中心最新产品可能会在下半年问世，或会推动英伟达数据中心业务回暖
+推理端产品
+因全球 AI 大潮热度不减，营收占比预计会进一步提升
+总的来说，我们对公司全年业绩预测与一致预期相比较为保守，因贸易局势变化对半导体
+板块影响较大，而大中华区业务也是英伟达的战略要地
+但我们对英伟达业绩回暖充满信
+心，期待 Q3 业绩能带来更多希望
+由于较之前的盈利预测有所下调，基于 DCF 对自由现金流预测，假设  WACC 为  13.1%，
+FY2024 EV/EBITDA 为  21.9x，目标价暂调整为 187 美元
+游戏业务爆发期待在 Q3 得到
+验证
+图表  22：可比估值 
+公司 
+Nvidia 
+AMD 
+Intel 
+Broadcom 
+Qualcomm 
+Xilinx 
+AnalogDevices 
+Mkt 
+P/E 
+P/S  Revenue($B) 
+Net 
+R&D/Net 
+Gross 
+EV/EBITDA 
+Cap($B) 
+income($B) 
+Sales 
+Margin 
+102.01 
+42.70 
+10.01 
+34.14 
+178.64 
+5.50 
+201.03 
+112.51 
+94.54 
+26.29 
+40.57 
+10.86 
+26.95 
+12.15 
+28.38 
+19.90 
+3.05 
+5.30 
+3.87 
+8.17 
+6.61 
+11.72 
+6.48 
+70.85 
+20.86 
+22.73 
+3.06 
+6.20 
+3.81 
+0.35 
+20.42 
+11.89 
+4.16 
+0.89 
+2.23 
+20.28% 
+22.15% 
+19.12% 
+18.07% 
+24.74% 
+24.29% 
+18.79% 
+61.51% 
+37.79% 
+61.73% 
+51.97% 
+56.91% 
+68.75% 
+71.19% 
+22.87 
+24.77 
+6.74 
+11.01 
+13.94 
+21.24 
+16.90 
+资料来源：彭博资讯、富途证券（2019.09.03） 
+2019 年 09 月 04 日 
+谨请参阅尾页重要声明及股票和行业评级标准   
+14 
+ 
+40
+35
+30
+25
+20
+15
+10
+                                                                                富途证券·公司研究报告 
+图表  23：当前估值处于近两年低位 
+当前  vs 2 年平均历史财务比率 
+Current(x) 
+Hist Avg(x) 
+Diff 
+Price(USD) 
+26.43 
+22.91 
+25.11 
+7.97 
+9.87 
+31.39 
+25.95 
+28.50 
+9.66 
+15.60 
+Forward EV/EBITDA
+-15.83% 
+-11.69% 
+-11.91% 
+-17.42% 
+-36.75% 
+Std 
+-0.8 
+-0.7 
+-0.7 
+-0.9 
+-1.3 
+199.39 
+188.71 
+189.15 
+201.03 
+264.84 
+P/E 
+EV/EBITDA 
+EV/EBIT 
+EV/Revenue 
+P/BV 
+30.4
+25.9
+21.5
+23-Aug-17
+23-Nov-17
+23-Feb-18
+23-May-18
+23-Aug-18
+23-Nov-18
+23-Feb-19
+23-May-19
+23-Aug-19
+NVDA US Equity Multiple (BF EV/EBITDA)
+Multiple Average (2 Years)
+'+1 Standard Deviation from Multiple Average
+'-1 Standard Deviation from Multiple Average
+图表  24：EBITDA Multiple Method - Sensitivity Analysis 
+EV/EBITDA 
+18.9x 
+20.4x 
+21.9x 
+23.4x 
+24.9x 
+171.81   
+168.42   
+165.13   
+161.91   
+158.78   
+183.16   
+179.53   
+175.99   
+172.54   
+169.18   
+194.51   
+190.63   
+186.85 
+183.16   
+179.57   
+205.87   
+201.73   
+197.71   
+193.79   
+189.96   
+217.22   
+212.84   
+208.57   
+204.41   
+200.36   
+资料来源：彭博资讯、富途证券 
+WACC 
+12.1% 
+12.6% 
+13.1% 
+13.6% 
+14.1% 
+资料来源：彭博资讯、富途证券预测 
+2019 年 09 月 04 日 
+15 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+FY2018A 
+FY2019A 
+FY2020E 
+FY2021E 
+FY2022E 
+9714 
+41% 
+3225 
+66% 
+3047 
+82.9% 
+59.9% 
+4.82 
+15.00 
+41.76 
+11716 
+21% 
+3816 
+19% 
+4141 
+34.4% 
+61.2% 
+6.64 
+8.31 
+22.53 
+10430 
+-11% 
+3273 
+-11% 
+2386 
+-42.4% 
+60.9% 
+3.92 
+9.78 
+33.33 
+12412 
+19% 
+3371 
+3% 
+3171 
+32.9% 
+65% 
+5.15 
+8.22 
+25 
+14026 
+13% 
+3961 
+17.5% 
+3401 
+7.3% 
+62.7% 
+5.48 
+7.27 
+21.5 
+图表  25：盈利预测摘要 
+财务指标与估值 
+营业收入（百万美元） 
+增长率 YoY% 
+经营利润（百万美元） 
+增长率 YoY% 
+GAAP 净利润（百万美元） 
+增长率 YoY% 
+GAAP 毛利润率 
+GAAP EPS（美元） 
+P/S（倍） 
+EV/EBITDA（倍） 
+资料来源：彭博资讯、富途证券预测 
+风险提示 
+中美贸易战对半导体公司产生负面影响；AMD 显卡市场表现超预期；数据中心业务表现
+不及预期；消费者换机需求低于预期；Mellanox 收购进展不及预期
+2019 年 09 月 04 日 
+16 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+联系我们 
+公司名称： 
+公司地址： 
+联系电话： 
+富途证券国际（香港）有限公司 
+香港金鐘金鐘道 95 號統一中心 13 樓 C1－2 室 
++86 755 8663 6688 
+公司評級，行業評級及相關說明 
+公司評級 
+買入：我們預計未來 6-12 個月內，個股相對大盤漲幅在 10％以上; 
+中性：我們預計未來 6-12 個月內，個股相對大盤漲幅介於-10％與 10％之間; 
+減持：我們預計未來 6-12 個月內，個股相對大盤跌幅大於 10％
+行業評級 
+超配：我們預計未來 6-12 個月內，行業整體回報高於市場整體水平 10％以上; 
+中性：我們預計未來 6-12 個月內，行業整體回報介於市場整體水平-10％與 10％之間; 
+低配：我們預計未來 6-12 個月內，行業整體回報低於市場整體水平 10％以上
+一般聲明 
+本出版物由富途證券國際(香港)有限公司（“富途證券”）編制
+本報告之收取者透過接受本報告（包括任何有關
+的附件），表示並保證其根據下述的條件下有權獲得本報告，並且同意受此中包含的限制條件所約束
+任何沒有遵
+循這些限制的情況可能構成法律之違反
+未經富途證券事先以書面同意，本報告及其中所載的資料不得以任何形式（i）複製，複印或儲存，或者（ii）直接
+或者間接分發或者轉交予任何其它人作任何用途
+富途證券對因使用本出版物中包含的材料而導致的任何直接或間
+接損失概不負責
+本報告內的資料來自富途證券在報告發行時相信為正確及可靠的來源，惟本報告並非旨在包含投資者所需要的所有
+信息，並可能受送遞延誤，阻礙或攔截等因子所影響
+富途證券不明示或暗示地保證或表示任何該等數據或意見的
+足夠性，準確性，完整性，可靠性或公平性
+因此，富途證券及其集團或有關的成員均不會就由於任何第三方在依
+賴本報告的內容時所作的行為而導致的任何類型的損失（包括但不限於任何直接的，間接的，隨之而發生的損失）
+而負上任何責任
+本報告之觀點、推薦、建議和意見均不一定反映富途證券或其集團的立場，亦可在沒有提供通知的情況下隨時更改，
+富途證券亦無責任提供任何有關資料或意見之更新
+本報告只為一般性提供數據之性質，旨在供富途證券之客戶作一般閱覽之用，而非考慮任何某特定收取者的特定投
+資目標，財務狀況或任何特別需要
+本報告內的任何資料或意見均不構成或被視為集團的任何成員作出提議，建議
+或徵求購入或出售任何證券，有關投資或其它金融證券
+本報告提供給某接收人是基於該接收人被認為有能力獨立評估投資風險並就投資決策能行使獨立判斷
+投資的獨立
+判斷是指，投資決策是投資者自身基於對潛在投資的目標、需求、 機會、風險、市場因素及其他投資考慮而獨立做
+出的
+2019 年 09 月 04 日 
+17 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+本報告由受香港證券和期貨委員會監管的富途證券國際(香港)有限公司（“富途證券”） 於香港提供
+香港的投資
+者若有任何關於富途證券研究報告的問題請直接聯繫富途證券
+本報告作者所持香港證監會牌照的牌照編號已披露
+在報告首頁的作者姓名旁
+本報告中的任何內容均不得解釋為購買或出售證券的要約或邀請
+任何決定購買本研究報告中所提及的證券都應考
+慮到現有的公開信息，包括任何有關此類證券的招股說明書等
+利益披露聲明 
+報告作者為香港證監會持牌人士，分析員本人或其有聯繫者並未擔任本研究報告所評論的上市法團高級管理人員，
+也未持有其任何財務權益
+本報告中，富途證券並無持有該上市公司市值的 1％或以上的任何財務權益，在過去 12 個月內與該公司並無投資銀
+行關係
+本公司員工均非該上市公司的僱員
+可用性 
+對部分的司法管轄區或國家而言，分發，發行或使用本報告會抵觸當地法律，法則，規定，或其它註冊或發牌的規
+本報告不是旨在向該等司法管轄區或國家的任何人或實體分發或由其使用
+此處包含的信息是基於富途證券國際(香港)有限公司（“富途證券”）認為之準確的來源
+富途證券不承擔任何
+責任因依賴本文內容而引起的損失
+富途證券（或其附屬公司或員工）可能在相關投資產品中擁有頭寸
+  
+有關不同產品風險的詳細信息，請訪問 http://www.futu5.com 上的風險披露聲明
+本一般聲明以中英文書寫，兩種文本具同等效力
+若兩種文本有矛盾之處，則應以英文版本為準
+©富途證券國際(香港)有限公司 
+2019 年 09 月 04 日 
+18 
+谨请参阅尾页重要声明及股票和行业评级标准   
+ 
+Stock ratings, Sector ratings and Related Definitions 
+                                                                                富途证券·公司研究报告 
+Buy: A return potential of 10 % or more relative to overall market within 6 – 12 months. 
+Neutral: A return potential ranging from -10% to 10% relative to overall market within 6 – 12 months. 
+Sell: A negative return of 10% or more relative to overall market within 6 –12 months. 
+Stock Ratings: 
+Sector Ratings: 
+Overweight: The sector will outperform the overall market by 10% or higher within 6 –12 months. 
+Neutral: The sector performance will range from -10% to 10% relative to overall market within 6 –12 months. 
+Underweight: The sector will underperform the overall market by 10% or lower within 6 – 12 months. 
+We do not base our recommendations entirely on the above quantitative return bands. We consider qualitative factors like (but 
+not limited to) a stock's risk/reward profile, market sentiment, recent rate of share price appreciation, presence or absence of 
+stock price catalysts, and speculative undertones surrounding the stock, before making our final recommendation. 
+GENERAL DISCLAIMER 
+This publication is prepared by Futu Securities International (Hong Kong) Ltd (“Futu Securities”). By receiving or reading 
+this publication, you agree to be bound by the terms and limitations set out below. 
+This publication shall not be reproduced in whole or in part, distributed or published by you for any purpose. Futu Securities 
+shall not be liable for any direct or consequential loss arising from any use of material contained in this publication. 
+The information contained in this publication has been obtained from public sources which Futu Securities has no reason to 
+believe  are  unreliable  and  any  analysis,  forecasts,  projections,  expectations  and  opinions  (collectively  the  “Research”) 
+contained in this publication are based on such information and are expressions of belief only. 
+Futu  Securities  has  not verified  this  information  and  no representation  or warranty, express  or  implied,  is  made  that  such 
+information or Research is accurate, complete or verified or should be relied upon as such. Any such information or Research 
+contained  in  this  publication  is  subject  to  change,  and  Futu  Securities  shall  not  have  any  responsibility  to  maintain  the 
+information or Research made available or to supply any corrections, updates or releases in connection therewith. In no event 
+will Futu Securities be liable for any special, indirect, incidental or consequential damages which may be incurred from the 
+use of the information or Research made available, even 
+if it has been advised of the possibility of such damages. 
+Any opinions, forecasts, assumptions, estimates, valuations and prices contained in this material are as of the date indicated 
+and are subject to change at any time without prior notice. 
+This  material  is  intended  for  general  circulation  only  and  does  not  take  into  account  the  specific  investment  objectives, 
+financial situation or particular needs of any particular person. The products mentioned in this material may not be suitable 
+for all investors and a person receiving or reading this material should seek advice from a financial adviser regarding the 
+suitability of such products, taking into account the specific investment objectives, financial situation or particular needs of 
+that person, before making a commitment to invest in any of such products. 
+2019 年 09 月 04 日 
+19 
+谨请参阅尾页重要声明及股票和行业评级标准   
+                                                                                富途证券·公司研究报告 
+This publication should not be relied upon as authoritative without further being subject to the recipient’s own independent 
+verification  and  exercise  of  judgment.  The  fact  that  this  publication  has  been  made  available  constitutes  neither  a 
+recommendation to enter into a particular transaction nor a representation that any product described in this material is suitable 
+or  appropriate  for  the  recipient.  Recipients  should  be  aware  that  many  of  the  products  which  may  be  described  in  this 
+publication involve significant risks and may not be suitable for all investors, and that any decision to enter into transactions 
+involving such products should not be made unless all such risks are understood and an independent determination has been 
+made that such transactions would be appropriate. Any discussion of the risks contained herein with respect to any product 
+should not be considered to be a disclosure of all risks or a complete discussion of such risks. 
+This report is provided by Futu Securities, which is regulated by the Securities and Futures Commission of Hong Kong (SFC). 
+If you have any questions about the Futu Securities Research Report, please contact Futu Securities. The CE number of SFC 
+held by the author has been disclosed next to the author's name on the front page of the report. 
+Nothing in this report shall be construed to be an offer or solicitation for the purchase or sale of a security. Any decision to 
+purchase securities mentioned in this research should take into account existing public information, including any registered 
+prospectus in respect of such security. 
+Disclosure of Interest 
+Analyst Disclosure: Neither the analyst(s) preparing this report nor his associate has any financial interest in or serves as an 
+officer of the listed corporation covered in this report. 
+Firm’s Disclosure: Futu Securities does not have any investment banking relationship with the listed corporation covered in 
+this report in the past 12 months nor any financial interest of 1% or more of the market capitalization in the listed corporation. 
+In addition, no executive staff of Futu Securities serves as an officer of the listed corporation. 
+Availability 
+The information, tools and material presented herein are not directed, intended for distribution to or use by, any person or 
+entity in any jurisdiction or country where such distribution, publication, availability or use would be contrary to the applicable 
+law or regulation or which would subject Futu Securities to any registration or licensing or other requirement, or penalty for 
+contravention of such requirements within such jurisdiction. 
+Information contained herein is based on sources that Futu Securities believed to be accurate. Futu Securities does not bear 
+responsibility for anyloss occasioned by reliance placed upon the contents hereof. Futu Securities (or its affiliates or employees) 
+may have positions in relevant investment products.   
+For details of different products’ risks, please visit the Risk Disclosures Statement on http://www.futu5.com. 
+©Futu Securities International (Hong Kong) Limited 
+2019 年 09 月 04 日 
+20 
+谨请参阅尾页重要声明及股票和行业评级标准   
